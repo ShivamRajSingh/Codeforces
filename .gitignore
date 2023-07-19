@@ -1,6 +1,7 @@
 #compiled class file
 *.class
 *.out
+*.exe
 
 # Log file
 *.log
